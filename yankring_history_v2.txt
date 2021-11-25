@@ -1,0 +1,36 @@
+ highlight NonText ctermbg=none,V
+export PATH=$PATH:/var/lib/snapd/snap/bin/,V
+o,v
+l,v
+c,v
+r,v
+e,v
+p,v
+a,v
+x,v
+b,v
+v,v
+u,v
+g,v
+ ,v
+y,v
+t,v
+s,v
+-,v
+i,v
+k,v
+n,v
+m,v
+f,v
+"background,V
+highlight Normal ctermbg=none,V
+highlight NonText ctermbg=none,V
+8,v
+h,v
+/,v
+d,v
+Plug 'sonph/onehalf',V
+,V
+set encoding=utf-8,V
+let using_neovim,V
+3,v
